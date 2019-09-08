@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "welcome here"
+date: 2019-09-08
 ---
 
 # 2019.09.08
